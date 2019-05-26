@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" >میرا مرض</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">لاگ آوٹ</string>
+    <string name="title_activity_meri_beemari">میری بیماری</string>
+    <string name="search">search me</string>
+    <string name="search_hint">search me</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="disease_arrays">
+        <item>All</item>
+        <item>Diabetes</item>
+        <item>Heart Disease</item>
+        <item>Cancer</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_meri_adwiyaat">میری ادویات</string>
+    <string name="title_activity_meri_ghiza">میری غذا</string>
+    <string name="title_activity_mera_hamdard">میرا ہمدرد</string>
+    <string name="title_activity_tibbi_istilahaat">طبی اصطلاحات</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/dashboard"
+            android:title="ہوم پیج" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/stethoscope"
+            android:title="میری بیماری" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/medicine"
+            android:title="میری ادویات" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/cutlery"
+            android:title="میری غذا" />
+        <item
+            android:id="@+id/nav_hamdard"
+            android:icon="@drawable/care"
+            android:title="میرا ہمدرد" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/file"
+            android:title="طبی اصطلاحات"
+            />
+
+    </group>
+
+</menu>
